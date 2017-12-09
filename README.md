@@ -6,8 +6,9 @@
 
 #### To Learn how a simple Angular project is created and learn about basic Angular principles!
 
-### Installation:
-To install the Angular CLI:
+### Installation:To install the Angular CLI:
+
+```bash
 
 npm install -g @angular/cli
 ```
@@ -29,6 +30,3 @@ Navigate to `http://localhost:4200/`. The app will automatically reload if you c
 
 You can configure the default HTTP host and port used by the development server with two command-line options :
 
-```bash
-ng serve --host 0.0.0.0 --port 4201
-```
