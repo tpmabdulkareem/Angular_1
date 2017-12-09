@@ -1,3 +1,8 @@
+## Documentation
+
+The documentation for the Angular CLI is located in this repo's [wiki](https://github.com/tpmabdulkareem/Angular_myProject/wiki).
+
+
 # MyProject
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.5.
